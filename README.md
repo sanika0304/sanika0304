@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanika Patil</h1>
 <h3 align="center">A Passionate about SQL, Python, and Web Development.</h3>
-<h3 align="center">Currently I have completed my Internship in SQL and .NET with one year experience in it. </h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika0304&label=Profile%20views&color=0e75b6&style=flat" alt="sanika0304" /> </p>
+
+- 💻 Currently I have completed my Internship in SQL and .NET with one year experience in it.
 
 - 💬 Ask me about **SQL, Python, .NET, PowerBI**
 
