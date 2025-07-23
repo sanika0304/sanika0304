@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika0304&label=Profile%20views&color=0e75b6&style=flat" alt="sanika0304" /> </p>
 
-- 💬 Ask me about **SQL,Python,.NET,PowerBI**
+- 💬 Ask me about **SQL, Python, .NET, PowerBI**
 
 - 📫 How to reach me **sanikapatilsp03@gmail.com**
 
