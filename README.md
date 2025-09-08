@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanika Patil</h1>
-<h3 align="center">A Passionate about SQL, Python, and Web Development.</h3>
+<h3 align="center">A Passionate about SQL,.NET, and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika0304&label=Profile%20views&color=0e75b6&style=flat" alt="sanika0304" /> </p>
 
