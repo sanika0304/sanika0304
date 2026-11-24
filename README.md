@@ -5,12 +5,12 @@
 💻 I am a .NET Developer with **1 year of professional experience** in .NET development and SQL Server.
 
 - 💼 Experienced in working with Transportation ERP and Billing Software.
-- 🔹 Hands-on experience with C#, .NET, ASP.NET Core and MVC.
+- 🔹 Hands-on experience with C#, .NET, ASP.NET Core and API Integrations.
 - 🗄️ Skilled in SQL Server, database management, queries and stored procedures.
 - 🌐 Knowledge of Web Development and REST APIs.
 - 🚀 Interested in building efficient, scalable and user-friendly applications.
 
-**💬 Ask me about:** C#, .NET, ASP.NET Core, MVC, SQL Server, Web Development and APIs.
+**💬 Ask me about:** C#, .NET, ASP.NET Core, SQL Server, Web Development and APIs.
 
 **📫 Reach me:** sanikapatilsp03@gmail.com
 
