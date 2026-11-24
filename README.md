@@ -5,7 +5,7 @@
 
 - 💻 Currently I have completed my Internship in SQL and .NET with one year experience in it.
 
-- 💬 Ask me about **SQL, Python, .NET, PowerBI**
+- 💬 Ask me about **SQL, .NET, and Web Development**
 
 - 📫 How to reach me **sanikapatilsp03@gmail.com**
 
